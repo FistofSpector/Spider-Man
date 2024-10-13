@@ -1,14 +1,14 @@
 {
-  "Name": "Empty Mod",
-  "Author": "You! :D",
-  "Description": "Please add details about your mod here.",
+  "Name": "Spider-Man",
+  "Author": "Moonman Studios",
+  "Description": "",
   "ModVersion": "1.0",
-  "GameVersion": "1.21+",
-  "ThumbnailPath": "sprites/placeholder.png",
-  "EntryPoint": "Mod.Mod",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "Assets",
+  "EntryPoint": "Spiderman.Mod",
   "Tags": [],
   "Scripts": [
-    "mod.cs"
+    "Main.cs"
   ],
   "Active": true,
   "UGCIdentity": null,
